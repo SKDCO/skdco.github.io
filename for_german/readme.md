@@ -1,7 +1,9 @@
-### I. Create GitHub page
-See this site [open issues](https://tpverstak.ru/website-on-github/)
+### I. Создание GitHub страницы (сайта)
+Смотреть [здесь](https://tpverstak.ru/website-on-github/)
 
-### II. Site-page theme design
-Look the [open issues](https://github.com/pages-themes/minimal/)
+### II. Шаблон для страницы
+Можно взять [отсюда](https://github.com/pages-themes/minimal/)
+и мануал по [верстке](https://github.com/pages-themes/minimal/blob/master/README.md)
 
-### III. Create .md file commands
+### III. Создание .md файла, команды
+Подробная [инструкция](https://github.com/SKDCO/skdco.github.io/blob/main/for_german/Markdown-docs.md)
