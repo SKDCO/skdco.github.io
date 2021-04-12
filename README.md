@@ -1,7 +1,7 @@
 ### # Backup ur repos for save
 ![screenshot of sample](logo/cybersec.jpeg)
 ### > SecLists
-![Admin-Login for CMS use](files/admin-login-jsql-injection/admin-login-jsql-injection.txt)
+[Admin-Login for CMS use](https://github.com/SKDCO/skdco.github.io/tree/main/files/admin-login-jsql-injection)
 ### > DataLeaks
 ### > Scripting
 <!--
