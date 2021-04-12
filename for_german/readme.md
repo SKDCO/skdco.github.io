@@ -1,5 +1,5 @@
 ### I. Создание GitHub страницы (сайта)
-Смотреть ![здесь](https://tpverstak.ru/website-on-github/)
+Смотреть [здесь](https://tpverstak.ru/website-on-github/)
 
 ### II. Шаблон для страницы
 Можно взять ![отсюда](https://github.com/pages-themes/minimal/)
