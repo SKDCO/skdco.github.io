@@ -5,10 +5,6 @@
 
 ### > DataLeaks
 ### > Scripting
-
-
-
-*NSA test repo. All rights reserved*
  
 <!--
 **SKDCO/SKDCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
