@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins #addon
 description: NSA
 title: SecList's
 logo: logo/National-Security-Agency-Eagle-Circle-Gig.png
