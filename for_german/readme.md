@@ -7,3 +7,5 @@
 
 ### III. Создание .md файла, команды
 Подробная [инструкция](https://github.com/SKDCO/skdco.github.io/blob/main/for_german/Markdown-docs.md)
+
+  #*Вся информация будет обновляться по мере ее поступления*
