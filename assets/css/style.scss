@@ -1,10 +1,5 @@
----
----
-
-@import "{{ site.theme }}";
-
 div {
     background: url(https://github.com/SKDCO/skdco.github.io/blob/main/logo/white-scratch-lines.png);
-    background-size: 100% 100%;
+    /*background-size: 100% 100%;*/
     background-repeat: repeat;
 }
