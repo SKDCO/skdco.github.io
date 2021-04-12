@@ -1,9 +1,9 @@
 ### I. Создание GitHub страницы (сайта)
-Смотреть [здесь](https://tpverstak.ru/website-on-github/)
+Смотреть ![здесь](https://tpverstak.ru/website-on-github/)
 
 ### II. Шаблон для страницы
-Можно взять [отсюда](https://github.com/pages-themes/minimal/)
-и мануал по [верстке](https://github.com/pages-themes/minimal/blob/master/README.md) этого шаблона
+Можно взять ![отсюда](https://github.com/pages-themes/minimal/)
+и мануал по ![верстке](https://github.com/pages-themes/minimal/blob/master/README.md) этого шаблона
 
 ### III. Создание .md файла, команды
 Подробная ![инструкция](/for_german/Markdown-docs.md)
