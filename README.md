@@ -1,4 +1,4 @@
-### # Backup you repos for save
+### # Backup ur repos for save
 ### > SecLists
 ### > DataLeaks
 ### > Scripting
