@@ -6,7 +6,9 @@
 >[Wordlist](https://github.com/SKDCO/skdco.github.io/tree/main/files/wordlist)
 
 ### > DataLeaks
->[FBI Leaks](https://www.mediafire.com/file/kr334mxsc474c2x/FBI_LEAKS.zip/file)
+>[**FBI Leaks**](https://www.mediafire.com/file/kr334mxsc474c2x/FBI_LEAKS.zip/file)
+
+>[*Russia 70GB* Base](https://yadi.sk/d/wem9Wpo5HMNaYg)
 
 ### > Scripting
  
