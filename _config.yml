@@ -3,3 +3,4 @@ gem "github-pages", group: :jekyll_plugins #addon
 description: NSA test repo. All rights reserved
 title: SecList's
 logo: logo/National-Security-Agency-Eagle-Circle-Gig.png
+show_downloads: ["true"]
