@@ -11,6 +11,7 @@
 >[*Russia 70GB* Base](https://yadi.sk/d/wem9Wpo5HMNaYg)
 
 ### > Scripting
+>Auto-updating skript for you resume on **HH.ru** [[Python]](https://github.com/SKDCO/skdco.github.io/tree/main/files/autoupdate-you-resume-for-hh.ru)
 
 ### > Reverse engineering
  
