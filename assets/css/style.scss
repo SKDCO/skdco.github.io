@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 body {
-background-color: grey;
+background-image: url(/logo/white-woolen.png);
+background-repeat: repeat;
 }
