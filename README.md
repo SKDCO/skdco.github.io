@@ -18,6 +18,7 @@
 > [HAT DOS](https://github.com/SKDCO/skdco.github.io/tree/main/files/HAT_Dos) - program for dos attacks 
 
 ### > Reverse engineering
+> [Ghidra](https://ghidra-sre.org/) for Russian's use this [mirror](https://web.archive.org/web/20210410124600/https://ghidra-sre.org/ghidra_9.2.2_PUBLIC_20201229.zip)
  
 <!--
 **SKDCO/SKDCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
