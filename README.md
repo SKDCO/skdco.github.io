@@ -21,6 +21,8 @@
 
 > [PIDRILA](https://github.com/SKDCO/skdco.github.io/tree/main/files/pidrila) - script for analysis link's
 
+### > OSINT
+
 ### > Reverse engineering
 <img src="logo/ghidra.png" width="400">
 
