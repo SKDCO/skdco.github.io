@@ -23,7 +23,7 @@
 
 ### > OSINT
 
-> OSINT [URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
+> **OSINT** [URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
 
 ### > Reverse engineering
 <img src="logo/ghidra.png" width="400">
