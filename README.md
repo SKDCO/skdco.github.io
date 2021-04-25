@@ -24,7 +24,7 @@
 ### > OSINT
 <img src="logo/OffensiveOsint-logo.png" width="300">
 
-> **OSINT** [URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
+> [**OSINT** URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
 
 > [OSINT Framework](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Framework)
 
