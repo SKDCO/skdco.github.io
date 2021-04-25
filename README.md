@@ -26,6 +26,8 @@
 
 > **OSINT** [URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
 
+> [OSINT Framework](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Framework)
+
 ### > Reverse engineering
 <img src="logo/ghidra.png" width="400">
 
