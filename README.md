@@ -22,7 +22,6 @@
 > [PIDRILA](https://github.com/SKDCO/skdco.github.io/tree/main/files/pidrila) - script for analysis link's
 
 ### > OSINT
-<img src="logo/OffensiveOsint-logo.png" width="400">
 
 > **OSINT** [URL List](https://github.com/SKDCO/skdco.github.io/tree/main/files/OSINT_Collection) Collection
 
