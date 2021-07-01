@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru" translate="no">
+    <head><meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="theme-color" content="#000000"/>
+        <meta property="og:type" content="website">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta name="keywords" content="QR-код, QR код, кьюаркод, куар код, код вакцина, qr code, qr код, qr-код, куаркод, Кьюар код, посещение общественного места, общественное место в Москве, QR, проход в клуб, бар, ресторан, проходка на концерт, регистрация на вход, регистрация">
+        <meta name="descriptions" content="Получение QR-кода на посещение общественного места в Москве">
+        <meta name="url" content="immune.mos.ru">
+        <meta name="image:alt" content="Получение QR-кода на посещение общественного места в Москве">
+        <title>Получение QR-кода на посещение общественного места в Москве</title>
+        <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', path='/favicon.ico') }}">
+        <link href="{{ url_for('static', path='/1.chunk.css') }}" rel="stylesheet">
+        <link href="{{ url_for('static', path='/2.chunk.css') }}" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main-container">
+            <div class="main_content" id="root">
+                <div class="immun-page">
+                    <div class="white_bg_status">
+                        <div class="content-container informer-start-bottom centered">
+                            <br>
+                            <img src="{{ url_for('static', path='/mos_logo.svg') }}" width="60%">
+                            <br>
+                            <br>
+                            <div id="print">
+                                <div class="status-container">
+                                    <div><span class="status-value">Действителен</span></div>
+                                </div>
+                                <br>
+                                <div>
+                                    <h4 class="status-param">
+                                        Сведения о владельце QR-кода:
+                                        <br>
+                                        {{ fio }}
+                                    </h4>
+                                    <h4 class="status-param">
+                                        Дата рождения:
+                                        {{ birthday }}
+                                    </h4>
+                                    <h4 class="status-param">
+                                        Срок действия:
+                                        {{ expired }}
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
