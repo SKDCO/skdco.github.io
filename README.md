@@ -1,6 +1,8 @@
 ### # Backup ur repos for save
 ![screenshot of sample](logo/cybersec.png)
 ### > SecLists
+>[**Fake QR Code - Goskulugi**](https://github.com/SKDCO/skdco.github.io/tree/main/files/fake-QR-code-goskulugi)
+
 >[Admin-Login for CMS use](https://github.com/SKDCO/skdco.github.io/tree/main/files/admin-login-jsql-injection)
 
 >[Wordlist](https://github.com/SKDCO/skdco.github.io/tree/main/files/wordlist)
