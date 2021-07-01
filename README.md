@@ -31,7 +31,7 @@
 ### > Reverse engineering
 <img src="logo/ghidra.png" width="400">
 
-> [Ghidra](https://ghidra-sre.org/), for Russian's use this [mirror](https://web.archive.org/web/20210410124600/https://ghidra-sre.org/ghidra_9.2.2_PUBLIC_20201229.zip)
+> [Ghidra](https://ghidra-sre.org/), for Russian's use this [mirror](https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.0_build/ghidra_10.0_PUBLIC_20210621.zip)
  
 <!--
 **SKDCO/SKDCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
